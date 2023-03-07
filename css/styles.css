@@ -72,6 +72,7 @@ body{
 }
 
 p{
+	margin: 2% 0;
 	font-size: 30px;
 	color: white;
 }
