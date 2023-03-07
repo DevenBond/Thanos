@@ -72,6 +72,7 @@ body{
 }
 
 p{
+	margin: 2% 0;
 	font-size: 30px;
 	color: white;
 }
@@ -91,10 +92,6 @@ h4{
 
 body {
 	background-image: linear-gradient(to bottom right, #573D76, #6E5E8E, #ACB0F7, #C0CAFF, #333D70);
-}
-
-p {
-	margin: 2% 0;
 }
 
 
