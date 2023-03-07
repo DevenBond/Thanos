@@ -1,0 +1,96 @@
+/* font-family: 'Roboto', sans-serif; */
+* {
+	margin: 0;
+	border: 0;
+	padding: 0;
+}
+#header1 {
+	min-height: 400px;
+	background-color: #734f2f;
+	background-image: url("../images/thanosHome.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: 20% 20%;
+}
+
+#header2 {
+	min-height: 400px;
+	background-color: #734f2f;
+	background-image: url("../images/deathsSake.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: 20% 20%;
+}
+
+#header3 {
+	min-height: 400px;
+	background-color: #734f2f;
+	background-image: url("../images/titanAmongMen.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: 20% 20%;
+}
+
+#header4 {
+	min-height: 400px;
+	background-color: #734f2f;
+	background-image: url("../images/bigTarget.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: 20% 20%;
+}
+
+#header5 {
+	min-height: 400px;
+	background-color: #734f2f;
+	background-image: url("../images/newsletter.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: 20% 20%;
+}
+
+nav li{
+	display: inline-block;
+	width: 15%;
+	text-align: center;
+}
+
+nav ul{
+	width: 100%;
+	margin: 0 10%;
+}
+
+nav a{
+	font-size: 25px;
+	color: white;
+	text-decoration: none;
+	padding: 10%;
+}
+
+body{
+	background-color: #48315B;
+}
+
+p{
+	font-size: 30px;
+	color: white;
+}
+
+h1{
+	color: white;
+}
+
+nav a:hover {
+	background-color: black;
+	color: white;
+}
+
+h4{
+	color: white;
+}
+
+body {
+	background-image: linear-gradient(to bottom right, #573D76, #6E5E8E, #ACB0F7, #C0CAFF, #333D70);
+}
+
+
